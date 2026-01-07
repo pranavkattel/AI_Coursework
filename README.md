@@ -1,4 +1,4 @@
-# 🎓 Face Recognition Improved Approach - Assignment Project
+## 🎓 Face Recognition Improved Approach - Assignment Project
 
 ## 📂 Project Overview
 
@@ -310,5 +310,6 @@ Evidence of progression:
 **Good luck!** 🚀
 
 Made with 💙 for your face recognition assignment.
-#   A I _ C o u r s e w o r k  
+#   A I _ C o u r s e w o r k 
+ 
  
